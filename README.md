@@ -3,7 +3,7 @@
 
 Line number 1
 Line number 2 Written this on the feature branch.
-Line number 3
+Line number 3 Written this in the second commit on the feature branch.
 Line number 4
 Line number 5
 Line number 6
