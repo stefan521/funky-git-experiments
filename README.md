@@ -8,7 +8,7 @@ Line number 4
 Line number 5
 Line number 6
 Line number 7
-Line number 8
+Line number 8 Adding this before the rebase of rebase-me-onto-master
 Line number 9
 Line number 10
 Line number 11
